@@ -1,0 +1,207 @@
+{
+	"usStates": [{
+		"name": "Delaware",
+		"census_sentences": ["Delaware is 21.1% black, compared to 12.2% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic seven times since 1976."]
+	}, {
+		"name": "Washington DC",
+		"census_sentences": ["Washington DC is 48.7% black, compared to 12.2% for the US overall.", "More adults here have a graduate degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this district has voted Democratic four times since 2000."]
+	}, {
+		"name": "Florida",
+		"census_sentences": ["Florida is 23.3% Hispanic or Latino, compared to 16.9% for the US overall.", "The median resident is 41.2 years old - which is older than the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic two times since 2000."]
+	}, {
+		"name": "Georgia",
+		"census_sentences": ["Georgia is 30.4% black, compared to 12.2% for the US overall.", "More people than average live below the federal poverty line here."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Hawaii",
+		"census_sentences": ["Hawaii is 22.9% white, compared to 62.8% for the US overall.", "More adults here have a high school diploma, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic nine times since 1976."]
+	}, {
+		"name": "Idaho",
+		"census_sentences": ["Idaho is 83.3% white, compared to 62.8% for the US overall.", "Fewer adults here have a graduate degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican 10 times since 1976."]
+	}, {
+		"name": "Illinois",
+		"census_sentences": ["Illinois is 14.2% black, compared to 12.2% for the US overall.", "The state has a median income similar to the national average (about $27,000)."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 2000."]
+	}, {
+		"name": "Indiana",
+		"census_sentences": ["Indiana has a median income of $25,625, similar to the national average of about $27,000.", "The state is 80.8% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican nine times since 1976."]
+	}, {
+		"name": "Iowa",
+		"census_sentences": ["Iowa has a median income of $27,475, similar to the national average of about $27,000.", "The state is 87.8% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic six times since 1976."]
+	}, {
+		"name": "Kansas",
+		"census_sentences": ["Kansas has a median income of $27,015, similar to the national average of about $27,000.", "The state is 77.4% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican 10 times since 1976."]
+	}, {
+		"name": "Kentucky",
+		"census_sentences": ["Kentucky is 85.8% white, compared to 62.8% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican seven times since 1976."]
+	}, {
+		"name": "Louisiana",
+		"census_sentences": ["Louisiana is 31.9% black, compared to 12.2% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Maine",
+		"census_sentences": ["Maine is 94.0% white, compared to 62.8% for the US overall.", "The median resident is 43.5 years old - which is older than the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic six times since 1976."]
+	}, {
+		"name": "Maryland",
+		"census_sentences": ["Maryland is 29.0% black, compared to 12.2% for the US overall.", "The state has a median income above the national average (about $27,000)."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 2000."]
+	}, {
+		"name": "Massachusetts",
+		"census_sentences": ["Massachusetts is 75.0% white, compared to 62.8% for the US overall.", "More adults here have a graduate degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic eight times since 1976."]
+	}, {
+		"name": "Michigan",
+		"census_sentences": ["Michigan is 76.1% white, compared to 62.8% for the US overall.", "More adults here have a high school diploma, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic six times since 1976."]
+	}, {
+		"name": "Minnesota",
+		"census_sentences": ["Minnesota is 82.1% white, compared to 62.8% for the US overall.", "More adults here have a high school diploma, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic 10 times since 1976."]
+	}, {
+		"name": "Mississippi",
+		"census_sentences": ["Mississippi is 37.2% black, compared to 12.2% for the US overall.", "More people than average live below the federal poverty line here."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican nine times since 1976."]
+	}, {
+		"name": "Missouri",
+		"census_sentences": ["Missouri is 80.5% white, compared to 62.8% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Montana",
+		"census_sentences": ["Montana is 87.2% white, compared to 62.8% for the US overall.", "More adults here have a high school diploma, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican nine times since 1976."]
+	}, {
+		"name": "Nebraska",
+		"census_sentences": ["Nebraska has a median income of $27,067, similar to the national average of about $27,000.", "The state is 81.2% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Nevada",
+		"census_sentences": ["Nevada has a median income of $27,262, similar to the national average of about $27,000.", "The state is 27.2% Hispanic or Latino, compared to 16.9% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 1976."]
+	}, {
+		"name": "New Hampshire",
+		"census_sentences": ["New Hampshire is 91.7% white, compared to 62.8% for the US overall.", "Fewer people than average live below the federal poverty line here."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic five times since 1976."]
+	}, {
+		"name": "New Jersey",
+		"census_sentences": ["New Jersey has a median income of $33,450, above the national average of about $27,000.", "The state is 57.8% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 2000."]
+	}, {
+		"name": "New Mexico",
+		"census_sentences": ["New Mexico is 47.0% Hispanic or Latino, compared to 16.9% for the US overall.", "More people than average live below the federal poverty line here."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic five times since 1976."]
+	}, {
+		"name": "New York",
+		"census_sentences": ["New York is 57.3% white, compared to 62.8% for the US overall.", "More adults here have a graduate degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 2000."]
+	}, {
+		"name": "North Carolina",
+		"census_sentences": ["North Carolina is 21.2% black, compared to 12.2% for the US overall.", "More people than average live below the federal poverty line here."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican three times since 2000."]
+	}, {
+		"name": "North Dakota",
+		"census_sentences": ["North Dakota is 87.7% white, compared to 62.8% for the US overall.", "More adults here have a high school diploma, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican 10 times since 1976."]
+	}, {
+		"name": "Ohio",
+		"census_sentences": ["Ohio has a median income of $25,724, similar to the national average of about $27,000.", "The state is 80.5% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic five times since 1976."]
+	}, {
+		"name": "Oklahoma",
+		"census_sentences": ["Oklahoma is 9.4% Hispanic or Latino, compared to 16.9% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Oregon",
+		"census_sentences": ["Oregon is 77.6% white, compared to 62.8% for the US overall.", "Fewer adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 2000."]
+	}, {
+		"name": "Pennsylvania",
+		"census_sentences": ["Pennsylvania is 78.5% white, compared to 62.8% for the US overall.", "The state has a median income similar to the national average (about $27,000)."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic seven times since 1976."]
+	}, {
+		"name": "Rhode Island",
+		"census_sentences": ["Rhode Island has a median income of $27,742, similar to the national average of about $27,000.", "The state is 75.1% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic nine times since 1976."]
+	}, {
+		"name": "South Carolina",
+		"census_sentences": ["South Carolina is 27.4% black, compared to 12.2% for the US overall.", "The state has a median income below the national average (about $27,000)."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican nine times since 1976."]
+	}, {
+		"name": "South Dakota",
+		"census_sentences": ["South Dakota has a median income of $26,431, similar to the national average of about $27,000.", "The state is 83.6% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Tennessee",
+		"census_sentences": ["Tennessee is 75.0% white, compared to 62.8% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Texas",
+		"census_sentences": ["Texas has a median income of $26,117, similar to the national average of about $27,000.", "The state is 38.2% Hispanic or Latino, compared to 16.9% for the US overall."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican nine times since 1976."]
+	}, {
+		"name": "Utah",
+		"census_sentences": ["Utah has a median income of $25,855, similar to the national average of about $27,000.", "The state is 79.8% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican 10 times since 1976."]
+	}, {
+		"name": "Vermont",
+		"census_sentences": ["Vermont has a median income of $27,079, similar to the national average of about $27,000.", "The state is 93.9% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 2000."]
+	}, {
+		"name": "Virginia",
+		"census_sentences": ["Virginia is 8.4% Hispanic or Latino, compared to 16.9% for the US overall.", "Fewer people than average live below the federal poverty line here."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic two times since 2000."]
+	}, {
+		"name": "Washington",
+		"census_sentences": ["Washington is 3.5% black, compared to 12.2% for the US overall.", "Fewer adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic seven times since 1976."]
+	}, {
+		"name": "West Virginia",
+		"census_sentences": ["West Virginia is 92.7% white, compared to 62.8% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Wisconsin",
+		"census_sentences": ["Wisconsin has a median income of $27,381, similar to the national average of about $27,000.", "The state is 82.7% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic eight times since 1976."]
+	}, {
+		"name": "Wyoming",
+		"census_sentences": ["Wyoming is 84.8% white, compared to 62.8% for the US overall.", "More adults here have a high school diploma, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Alabama",
+		"census_sentences": ["Alabama is 26.2% black, compared to 12.2% for the US overall.", "Fewer adults here have a bachelor's degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Alaska",
+		"census_sentences": ["Alaska is 13.7% Native American or Native Alaskan, compared to 0.7% for the US overall.", "More adults here have a high school diploma, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican four times since 2000."]
+	}, {
+		"name": "Arizona",
+		"census_sentences": ["Arizona has a median income of $26,110, similar to the national average of about $27,000.", "The state is 30.1% Hispanic or Latino, compared to 16.9% for the US overall."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican nine times since 1976."]
+	}, {
+		"name": "Arkansas",
+		"census_sentences": ["Arkansas is 73.9% white, compared to 62.8% for the US overall.", "More adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Romney won here in 2012, and this state has voted Republican seven times since 1976."]
+	}, {
+		"name": "California",
+		"census_sentences": ["California has a median income of $26,932, similar to the national average of about $27,000.", "The state is 39.2% white, compared to 62.8% for the US overall."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic six times since 1976."]
+	}, {
+		"name": "Colorado",
+		"census_sentences": ["Colorado is 3.8% black, compared to 12.2% for the US overall.", "Fewer adults here have a high school degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic three times since 1976."]
+	}, {
+		"name": "Connecticut",
+		"census_sentences": ["Connecticut is 69.8% white, compared to 62.8% for the US overall.", "More adults here have a graduate degree, compared to the national average."],
+		"history_sentence": ["Obama won here in 2012, and this state has voted Democratic four times since 2000."]
+	}]
+}

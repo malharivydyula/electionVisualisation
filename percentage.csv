@@ -1,0 +1,346 @@
+,year,state_po,candidate,party,candidatevotes,totalvotes,percent_vote
+0,2016,AL,"Trump, Donald J.",republican,1318255,2123372,62
+1,2016,AL,"Clinton, Hillary",democrat,729547,2123372,34
+2,2016,AL,"Johnson, Gary",libertarian,44467,2123372,2
+3,2016,AL,Others,Others,21712,2123372,1
+4,2016,AL,"Stein, Jill",green,9391,2123372,0
+5,2016,AK,"Trump, Donald J.",republican,163387,318608,51
+6,2016,AK,"Clinton, Hillary",democrat,116454,318608,36
+7,2016,AK,"Johnson, Gary",libertarian,18725,318608,5
+8,2016,AK,Others,Others,9201,318608,2
+9,2016,AK,"Stein, Jill",green,5735,318608,1
+10,2016,AK,"Castle, Darrell L.",constitution party,3866,318608,1
+11,2016,AK,"De La Fuente, Roque ""Rocky""",no party affiliation,1240,318608,0
+12,2016,AZ,"Trump, Donald J.",republican,1252401,2573165,48
+13,2016,AZ,"Clinton, Hillary",democrat,1161167,2573165,45
+14,2016,AZ,"Johnson, Gary",libertarian,106327,2573165,4
+15,2016,AZ,"Stein, Jill",green,34345,2573165,1
+16,2016,AZ,Others,independent,17473,2573165,0
+17,2016,AZ,"Castle, Darrell L.",constitution party,1058,2573165,0
+18,2016,AZ,Others,no party affiliation,311,2573165,0
+19,2016,AZ,Others,democrat,42,2573165,0
+20,2016,AZ,"De La Fuente, Roque ""Rocky""",american delta party,29,2573165,0
+21,2016,AZ,"Tittle, Sheila ""Samm""",we the people,12,2573165,0
+22,2016,AR,"Trump, Donald J.",republican,684872,1130635,60
+23,2016,AR,"Clinton, Hillary",democrat,380494,1130635,33
+24,2016,AR,"Johnson, Gary",libertarian,29829,1130635,2
+25,2016,AR,"McMullin, Evan",better for america,13255,1130635,1
+26,2016,AR,"Stein, Jill",green,9473,1130635,0
+27,2016,AR,"Hedges, Jim",prohibition,4709,1130635,0
+28,2016,AR,"Castle, Darrell L.",constitution party,4613,1130635,0
+29,2016,AR,"Kahn, Lynn S.",independent,3390,1130635,0
+30,2016,CA,"Clinton, Hillary",democrat,8753788,14181595,61
+31,2016,CA,"Trump, Donald J.",republican,4483810,14181595,31
+32,2016,CA,"Johnson, Gary",libertarian,478500,14181595,3
+33,2016,CA,"Stein, Jill",green,278657,14181595,1
+34,2016,CA,Others,Others,120739,14181595,0
+35,2016,CA,"La Riva, Gloria Estella",peace & freedom,66101,14181595,0
+36,2016,CO,"Clinton, Hillary",democrat,1338870,2780220,48
+37,2016,CO,"Trump, Donald J.",republican,1202484,2780220,43
+38,2016,CO,"Johnson, Gary",libertarian,144121,2780220,5
+39,2016,CO,"Stein, Jill",green,38437,2780220,1
+40,2016,CO,Scattering,unaffiliated,31485,2780220,1
+41,2016,CO,"Castle, Darrell L.",american constitution party,11699,2780220,0
+42,2016,CO,"Keniston, Chris",veterans party of america,5028,2780220,0
+43,2016,CO,"De La Fuente, Roque ""Rocky""",american delta party,1255,2780220,0
+44,2016,CO,"Kopitke, Kyle Kenley",independent american,1096,2780220,0
+45,2016,CO,"Maldonado, Joseph Allen",independent people of colorado,872,2780220,0
+46,2016,CO,"Maturen, Michael A.",american solidarity party,862,2780220,0
+47,2016,CO,"Silva, Rod",nutrition party,751,2780220,0
+48,2016,CO,"Hoefling, Tom",america's party,710,2780220,0
+49,2016,CO,"La Riva, Gloria Estella",socialism and liberation party,531,2780220,0
+50,2016,CO,"Kennedy, Alyson",socialist workers,452,2780220,0
+51,2016,CO,"Kotlikoff, Laurence",kotlikoff for president,392,2780220,0
+52,2016,CO,"Lyttle, Bradford",nonviolent resistance/pacifist,382,2780220,0
+53,2016,CO,"Atwood, Frank",approval voting party,337,2780220,0
+54,2016,CO,"Emidio ""Mimi"", Soltysik",socialist party usa,271,2780220,0
+55,2016,CO,"Hedges, James",prohibition,185,2780220,0
+56,2016,CT,"Clinton, Hillary",democrat,897572,1644920,54
+57,2016,CT,"Trump, Donald J.",republican,673215,1644920,40
+58,2016,CT,"Johnson, Gary",libertarian,48676,1644920,2
+59,2016,CT,"Stein, Jill",green,22841,1644920,1
+60,2016,CT,Others,Others,2616,1644920,0
+61,2016,DE,"Clinton, Hillary",democrat,235603,441590,53
+62,2016,DE,"Trump, Donald J.",republican,185127,441590,41
+63,2016,DE,"Johnson, Gary",libertarian,14757,441590,3
+64,2016,DE,"Stein, Jill",green,6103,441590,1
+65,2016,DC,"Clinton, Hillary",democrat,282830,312575,90
+66,2016,DC,"Trump, Donald J.",republican,12723,312575,4
+67,2016,DC,Others,Others,6551,312575,2
+68,2016,DC,"Johnson, Gary",libertarian,4906,312575,1
+69,2016,DC,"Stein, Jill",green,4258,312575,1
+70,2016,DC,Blank Vote,Others,1064,312575,0
+71,2016,DC,Over Vote,Others,243,312575,0
+72,2016,FL,"Trump, Donald J.",republican,4617886,9420039,49
+73,2016,FL,"Clinton, Hillary",democrat,4504975,9420039,47
+74,2016,FL,"Johnson, Gary",libertarian,207043,9420039,2
+75,2016,FL,"Stein, Jill",green,64399,9420039,0
+76,2016,FL,"Castle, Darrell L.",constitution party,16475,9420039,0
+77,2016,FL,"De La Fuente, Roque ""Rocky""",reform party,9108,9420039,0
+78,2016,FL,Others,Others,153,9420039,0
+79,2016,GA,"Trump, Donald J.",republican,2089104,4114732,50
+80,2016,GA,"Clinton, Hillary",democrat,1877963,4114732,45
+81,2016,GA,"Johnson, Gary",libertarian,125306,4114732,3
+82,2016,GA,Others,Others,22359,4114732,0
+83,2016,HI,"Clinton, Hillary",democrat,266891,437664,60
+84,2016,HI,"Trump, Donald J.",republican,128847,437664,29
+85,2016,HI,"Johnson, Gary",libertarian,15954,437664,3
+86,2016,HI,"Stein, Jill",green,12737,437664,2
+87,2016,HI,Blank Vote,Others,8289,437664,1
+88,2016,HI,"Castle, Darrell L.",constitution party,4508,437664,1
+89,2016,HI,Over Vote,Others,438,437664,0
+90,2016,ID,"Trump, Donald J.",republican,409055,690255,59
+91,2016,ID,"Clinton, Hillary",democrat,189765,690255,27
+92,2016,ID,"McMullin, Evan",independent,60748,690255,8
+93,2016,ID,"Johnson, Gary",libertarian,28331,690255,4
+94,2016,ID,"Castle, Darrell L.",constitution party,2356,690255,0
+95,2016,IL,"Clinton, Hillary",democrat,3090729,5536424,55
+96,2016,IL,"Trump, Donald J.",republican,2146015,5536424,38
+97,2016,IL,"Johnson, Gary",libertarian,209596,5536424,3
+98,2016,IL,"Stein, Jill",green,76802,5536424,1
+99,2016,IL,Others,Others,13282,5536424,0
+100,2016,IN,"Trump, Donald J.",republican,1557286,2734958,56
+101,2016,IN,"Clinton, Hillary",democrat,1033126,2734958,37
+102,2016,IN,"Johnson, Gary",libertarian,133993,2734958,4
+103,2016,IN,Others,green,7841,2734958,0
+104,2016,IN,"Castle, Darrell L.",constitution party,1937,2734958,0
+105,2016,IN,Others,independent,718,2734958,0
+106,2016,IN,"Emidio ""Mimi"", Soltysik",socialist party usa,57,2734958,0
+107,2016,IA,"Trump, Donald J.",republican,800983,1565580,51
+108,2016,IA,"Clinton, Hillary",democrat,653669,1565580,41
+109,2016,IA,"Johnson, Gary",libertarian,59186,1565580,3
+110,2016,IA,Others,Others,17746,1565580,1
+111,2016,IA,"McMullin, Evan",nominated by petition,12366,1565580,0
+112,2016,IA,"Stein, Jill",green,11479,1565580,0
+113,2016,IA,"Castle, Darrell L.",constitution party,5335,1565580,0
+114,2016,IA,"Kahn, Lynn S.",new independent party iowa,2247,1565580,0
+115,2016,IA,"Vacek, Dan",legal marijuana now,2246,1565580,0
+116,2016,IA,"La Riva, Gloria Estella",socialism and liberation party,323,1565580,0
+117,2016,KS,"Trump, Donald J.",republican,671018,1184402,56
+118,2016,KS,"Clinton, Hillary",democrat,427005,1184402,36
+119,2016,KS,"Johnson, Gary",libertarian,55406,1184402,4
+120,2016,KS,"Stein, Jill",independent,23506,1184402,1
+121,2016,KS,Others,Others,7467,1184402,0
+122,2016,KY,"Trump, Donald J.",republican,1202971,1924149,62
+123,2016,KY,"Clinton, Hillary",democrat,628854,1924149,32
+124,2016,KY,"Johnson, Gary",libertarian,53752,1924149,2
+125,2016,KY,"McMullin, Evan",independent,22780,1924149,1
+126,2016,KY,"Stein, Jill",green,13913,1924149,0
+127,2016,KY,"De La Fuente, Roque ""Rocky""",american delta party,1128,1924149,0
+128,2016,KY,Others,Others,751,1924149,0
+129,2016,LA,"Trump, Donald J.",republican,1178638,2029032,58
+130,2016,LA,"Clinton, Hillary",democrat,780154,2029032,38
+131,2016,LA,"Johnson, Gary",libertarian,37978,2029032,1
+132,2016,LA,Other,Others,18231,2029032,0
+133,2016,LA,"Stein, Jill",green,14031,2029032,0
+134,2016,ME,"Clinton, Hillary",democrat,357735,771892,46
+135,2016,ME,"Trump, Donald J.",republican,335593,771892,43
+136,2016,ME,"Johnson, Gary",libertarian,38105,771892,4
+137,2016,ME,Blank Vote,Others,23965,771892,3
+138,2016,ME,"Stein, Jill",green,14251,771892,1
+139,2016,ME,Others,unenrolled,2243,771892,0
+140,2016,MD,"Clinton, Hillary",democrat,1677928,2781446,60
+141,2016,MD,"Trump, Donald J.",republican,943169,2781446,33
+142,2016,MD,"Johnson, Gary",libertarian,79605,2781446,2
+143,2016,MD,"Stein, Jill",green,35945,2781446,1
+144,2016,MD,Others,Others,33263,2781446,1
+145,2016,MD,Other,Others,10921,2781446,0
+146,2016,MD,Others,no party affiliation,278,2781446,0
+147,2016,MD,"Trump, Donald J.",republican,259,2781446,0
+148,2016,MD,"Clinton, Hillary",democrat,78,2781446,0
+149,2016,MA,"Clinton, Hillary",democrat,1995196,3378821,59
+150,2016,MA,"Trump, Donald J.",republican,1090893,3378821,32
+151,2016,MA,"Johnson, Gary",libertarian,138018,3378821,4
+152,2016,MA,Blank Vote,Others,53775,3378821,1
+153,2016,MA,Other,Others,50488,3378821,1
+154,2016,MA,"Stein, Jill",green,47661,3378821,1
+155,2016,MA,Others,Others,2790,3378821,0
+156,2016,MI,"Trump, Donald J.",republican,2279543,4799284,47
+157,2016,MI,"Clinton, Hillary",democrat,2268839,4799284,47
+158,2016,MI,"Johnson, Gary",libertarian,172136,4799284,3
+159,2016,MI,"Stein, Jill",green,51463,4799284,1
+160,2016,MI,"Castle, Darrell L.",u.s. taxpayers party,16139,4799284,0
+161,2016,MI,Others,Others,8955,4799284,0
+162,2016,MI,"Emidio ""Mimi"", Soltysik",natural law,2209,4799284,0
+163,2016,MN,"Clinton, Hillary",democrat,1367705,2944782,46
+164,2016,MN,"Trump, Donald J.",republican,1322949,2944782,44
+165,2016,MN,"Johnson, Gary",libertarian,112972,2944782,3
+166,2016,MN,"McMullin, Evan",independence,53075,2944782,1
+167,2016,MN,"Stein, Jill",green,36986,2944782,1
+168,2016,MN,Others,Others,27247,2944782,0
+169,2016,MN,"Vacek, Dan",legal marijuana now,11291,2944782,0
+170,2016,MN,"Castle, Darrell L.",constitution party,9456,2944782,0
+171,2016,MN,"Kennedy, Alyson",socialist workers,1671,2944782,0
+172,2016,MN,"De La Fuente, Roque ""Rocky""",american delta party,1430,2944782,0
+173,2016,MS,"Trump, Donald J.",republican,700714,1209357,57
+174,2016,MS,"Clinton, Hillary",democrat,485131,1209357,40
+175,2016,MS,"Johnson, Gary",libertarian,14435,1209357,1
+176,2016,MS,"Castle, Darrell L.",constitution party,3987,1209357,0
+177,2016,MS,"Stein, Jill",green,3731,1209357,0
+178,2016,MS,"Hedges, James",prohibition,715,1209357,0
+179,2016,MS,"De La Fuente, Roque ""Rocky""",american delta party,644,1209357,0
+180,2016,MO,"Trump, Donald J.",republican,1594511,2808605,56
+181,2016,MO,"Clinton, Hillary",democrat,1071068,2808605,38
+182,2016,MO,"Johnson, Gary",libertarian,97359,2808605,3
+183,2016,MO,"Stein, Jill",green,25419,2808605,0
+184,2016,MO,"Castle, Darrell L.",constitution party,13092,2808605,0
+185,2016,MO,Others,Others,7156,2808605,0
+186,2016,MT,"Trump, Donald J.",republican,279240,494526,56
+187,2016,MT,"Clinton, Hillary",democrat,177709,494526,35
+188,2016,MT,"Johnson, Gary",libertarian,28037,494526,5
+189,2016,MT,"Stein, Jill",green,7970,494526,1
+190,2016,MT,"De La Fuente, Roque ""Rocky""",american delta party,1570,494526,0
+191,2016,NE,"Trump, Donald J.",republican,495961,844227,58
+192,2016,NE,"Clinton, Hillary",democrat,284494,844227,33
+193,2016,NE,"Johnson, Gary",libertarian,38946,844227,4
+194,2016,NE,Others,Others,16051,844227,1
+195,2016,NE,"Stein, Jill",nominated by petition,8775,844227,1
+196,2016,NV,"Clinton, Hillary",democrat,539260,1125385,47
+197,2016,NV,"Trump, Donald J.",republican,512058,1125385,45
+198,2016,NV,"Johnson, Gary",libertarian,37384,1125385,3
+199,2016,NV,None Of The Above,Others,28863,1125385,2
+200,2016,NV,"Kopitke, Kyle Kenley",independent american,5268,1125385,0
+201,2016,NV,"De La Fuente, Roque ""Rocky""",no party affiliation,2552,1125385,0
+202,2016,NH,"Clinton, Hillary",democrat,348526,744296,46
+203,2016,NH,"Trump, Donald J.",republican,345790,744296,46
+204,2016,NH,"Johnson, Gary",libertarian,30777,744296,4
+205,2016,NH,Others,Others,9618,744296,1
+206,2016,NH,"Stein, Jill",green,6496,744296,0
+207,2016,NH,Scattering,Others,2411,744296,0
+208,2016,NH,"De La Fuente, Roque ""Rocky""",american delta party,678,744296,0
+209,2016,NJ,"Clinton, Hillary",democrat,2148278,3874046,55
+210,2016,NJ,"Trump, Donald J.",republican,1601933,3874046,41
+211,2016,NJ,"Johnson, Gary",libertarian,72477,3874046,1
+212,2016,NJ,"Stein, Jill",green,37772,3874046,0
+213,2016,NJ,"Castle, Darrell L.",constitution party,6161,3874046,0
+214,2016,NJ,"Kennedy, Alyson",socialist workers,2156,3874046,0
+215,2016,NJ,"De La Fuente, Roque ""Rocky""",american delta party,1838,3874046,0
+216,2016,NJ,"Moorehead, Monica",workers world party,1749,3874046,0
+217,2016,NJ,"La Riva, Gloria Estella",socialism and liberation party,1682,3874046,0
+218,2016,NM,"Clinton, Hillary",democrat,385234,798319,48
+219,2016,NM,"Trump, Donald J.",republican,319667,798319,40
+220,2016,NM,"Johnson, Gary",libertarian,74541,798319,9
+221,2016,NM,"Stein, Jill",green,9879,798319,1
+222,2016,NM,"McMullin, Evan",better for america,5825,798319,0
+223,2016,NM,"Castle, Darrell L.",constitution party,1514,798319,0
+224,2016,NM,"La Riva, Gloria Estella",socialism and liberation party,1184,798319,0
+225,2016,NM,"De La Fuente, Roque ""Rocky""",american delta party,475,798319,0
+226,2016,NY,"Clinton, Hillary",democrat,4379789,7802084,56
+227,2016,NY,"Trump, Donald J.",republican,2527142,7802084,32
+228,2016,NY,"Trump, Donald J.",conservative,292392,7802084,3
+229,2016,NY,"Clinton, Hillary",working families,140041,7802084,1
+230,2016,NY,"Johnson, Gary",independence,119156,7802084,1
+231,2016,NY,"Stein, Jill",green,107934,7802084,1
+232,2016,NY,Blank Vote,Others,77179,7802084,0
+233,2016,NY,"Johnson, Gary",libertarian,57442,7802084,0
+234,2016,NY,Scattering,Others,48447,7802084,0
+235,2016,NY,"Clinton, Hillary",women's equality,36294,7802084,0
+236,2016,NY,Others,Others,12816,7802084,0
+237,2016,NY,Void Vote,Others,3452,7802084,0
+238,2016,NC,"Trump, Donald J.",republican,2362631,4741564,49
+239,2016,NC,"Clinton, Hillary",democrat,2189316,4741564,46
+240,2016,NC,"Johnson, Gary",libertarian,130126,4741564,2
+241,2016,NC,Scattering,Others,47386,4741564,0
+242,2016,NC,Others,Others,12105,4741564,0
+243,2016,ND,"Trump, Donald J.",republican,216794,344360,62
+244,2016,ND,"Clinton, Hillary",democrat,93758,344360,27
+245,2016,ND,"Johnson, Gary",libertarian,21434,344360,6
+246,2016,ND,"De La Fuente, Roque ""Rocky""",american delta party,6397,344360,1
+247,2016,ND,"Stein, Jill",green,3780,344360,1
+248,2016,ND,"Castle, Darrell L.",constitution party,1833,344360,0
+249,2016,ND,Others,Others,364,344360,0
+250,2016,OH,"Trump, Donald J.",republican,2841005,5496487,51
+251,2016,OH,"Clinton, Hillary",democrat,2394164,5496487,43
+252,2016,OH,Others,no party affiliation,198733,5496487,3
+253,2016,OH,"Stein, Jill",green,46271,5496487,0
+254,2016,OH,Others,Others,16314,5496487,0
+255,2016,OK,"Trump, Donald J.",republican,949136,1452992,65
+256,2016,OK,"Clinton, Hillary",democrat,420375,1452992,28
+257,2016,OK,"Johnson, Gary",libertarian,83481,1452992,5
+258,2016,OR,"Clinton, Hillary",democrat,1002106,2001336,50
+259,2016,OR,"Trump, Donald J.",republican,782403,2001336,39
+260,2016,OR,"Johnson, Gary",libertarian,94231,2001336,4
+261,2016,OR,Other,Others,72594,2001336,3
+262,2016,OR,"Stein, Jill",green,50002,2001336,2
+263,2016,PA,"Trump, Donald J.",republican,2970733,6115402,48
+264,2016,PA,"Clinton, Hillary",democrat,2926441,6115402,47
+265,2016,PA,"Johnson, Gary",libertarian,146715,6115402,2
+266,2016,PA,"Stein, Jill",green,49941,6115402,0
+267,2016,PA,"Castle, Darrell L.",constitution party,21572,6115402,0
+268,2016,RI,"Clinton, Hillary",democrat,252525,464144,54
+269,2016,RI,"Trump, Donald J.",republican,180543,464144,38
+270,2016,RI,"Johnson, Gary",libertarian,14746,464144,3
+271,2016,RI,Others,Others,9439,464144,2
+272,2016,RI,"Stein, Jill",green,6220,464144,1
+273,2016,RI,"De La Fuente, Roque ""Rocky""",american delta party,671,464144,0
+274,2016,SC,"Trump, Donald J.",republican,1155389,2103027,54
+275,2016,SC,"Clinton, Hillary",democrat,855373,2103027,40
+276,2016,SC,"Johnson, Gary",libertarian,49204,2103027,2
+277,2016,SC,"McMullin, Evan",independence,21016,2103027,0
+278,2016,SC,"Stein, Jill",green,13034,2103027,0
+279,2016,SC,"Castle, Darrell L.",constitution party,5765,2103027,0
+280,2016,SC,"Skewes, Peter",american,3246,2103027,0
+281,2016,SD,"Trump, Donald J.",republican,227721,370093,61
+282,2016,SD,"Clinton, Hillary",democrat,117458,370093,31
+283,2016,SD,"Johnson, Gary",libertarian,20850,370093,5
+284,2016,SD,"Castle, Darrell L.",constitution party,4064,370093,1
+285,2016,TN,"Trump, Donald J.",republican,1522925,2508027,60
+286,2016,TN,"Clinton, Hillary",democrat,870695,2508027,34
+287,2016,TN,Others,independent,100618,2508027,4
+288,2016,TN,Others,Others,13789,2508027,0
+289,2016,TX,"Trump, Donald J.",republican,4685047,8969226,52
+290,2016,TX,"Clinton, Hillary",democrat,3877868,8969226,43
+291,2016,TX,"Johnson, Gary",libertarian,283492,8969226,3
+292,2016,TX,"Stein, Jill",green,71558,8969226,0
+293,2016,TX,Others,Others,51261,8969226,0
+294,2016,UT,"Trump, Donald J.",republican,515211,1131317,45
+295,2016,UT,"Clinton, Hillary",democrat,310674,1131317,27
+296,2016,UT,"McMullin, Evan",no party affiliation,255060,1131317,22
+297,2016,UT,"Johnson, Gary",libertarian,39608,1131317,3
+298,2016,UT,"Castle, Darrell L.",constitution party,8032,1131317,0
+299,2016,UT,"Kopitke, Kyle Kenley",independent american,2732,1131317,0
+300,2016,VT,"Clinton, Hillary",democrat,178573,320467,55
+301,2016,VT,"Trump, Donald J.",republican,95369,320467,29
+302,2016,VT,Others,Others,22899,320467,7
+303,2016,VT,"Johnson, Gary",libertarian,10078,320467,3
+304,2016,VT,"Stein, Jill",green,6758,320467,2
+305,2016,VT,Blank Vote,Others,4574,320467,1
+306,2016,VT,"De La Fuente, Roque ""Rocky""",independent,1063,320467,0
+307,2016,VT,Void Vote,Others,826,320467,0
+308,2016,VT,"La Riva, Gloria Estella",liberty union party,327,320467,0
+309,2016,VA,"Clinton, Hillary",democrat,1981473,3982752,49
+310,2016,VA,"Trump, Donald J.",republican,1769443,3982752,44
+311,2016,VA,"Johnson, Gary",libertarian,118274,3982752,2
+312,2016,VA,"McMullin, Evan",independent,54054,3982752,1
+313,2016,VA,Others,Others,31870,3982752,0
+314,2016,VA,"Stein, Jill",green,27638,3982752,0
+315,2016,WA,"Clinton, Hillary",democrat,1742718,3317019,52
+316,2016,WA,"Trump, Donald J.",republican,1221747,3317019,36
+317,2016,WA,"Johnson, Gary",libertarian,160879,3317019,4
+318,2016,WA,Others,Others,107805,3317019,3
+319,2016,WA,"Stein, Jill",green,58417,3317019,1
+320,2016,WA,"Castle, Darrell L.",constitution party,17623,3317019,0
+321,2016,WA,"Kennedy, Alyson",socialist workers,4307,3317019,0
+322,2016,WA,"La Riva, Gloria Estella",socialism and liberation party,3523,3317019,0
+323,2016,WV,"Trump, Donald J.",republican,489371,713051,68
+324,2016,WV,"Clinton, Hillary",democrat,188794,713051,26
+325,2016,WV,"Johnson, Gary",libertarian,23004,713051,3
+326,2016,WV,"Stein, Jill",green,8075,713051,1
+327,2016,WV,"Castle, Darrell L.",constitution party,3807,713051,0
+328,2016,WI,"Trump, Donald J.",republican,1405284,2976150,47
+329,2016,WI,"Clinton, Hillary",democrat,1382536,2976150,46
+330,2016,WI,"Johnson, Gary",libertarian,106674,2976150,3
+331,2016,WI,"Stein, Jill",green,31072,2976150,1
+332,2016,WI,Scattering,Others,22764,2976150,0
+333,2016,WI,Others,Others,12386,2976150,0
+334,2016,WI,"Castle, Darrell L.",constitution party,12162,2976150,0
+335,2016,WI,"Moorehead, Monica",workers world party,1770,2976150,0
+336,2016,WI,"De La Fuente, Roque ""Rocky""",american delta party,1502,2976150,0
+337,2016,WY,"Trump, Donald J.",republican,174419,258788,67
+338,2016,WY,"Clinton, Hillary",democrat,55973,258788,21
+339,2016,WY,"Johnson, Gary",libertarian,13287,258788,5
+340,2016,WY,Others,Others,6904,258788,2
+341,2016,WY,Others,independent,3224,258788,1
+342,2016,WY,Blank Vote,Others,2661,258788,1
+343,2016,WY,"Castle, Darrell L.",constitution party,2042,258788,0
+344,2016,WY,Over Vote,Others,278,258788,0

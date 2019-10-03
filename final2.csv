@@ -1,0 +1,53 @@
+,year_x,state_x,state_po,candidate_x,party_x,candidatevotes_x,totalvotes_x,percent_vote_x,year_y,state_y,candidate_y,party_y,candidatevotes_y,totalvotes_y,percent_vote_y
+0,2016,Alabama,AL,"Clinton, Hillary",democrat,729547,2123372,34%,2016,Alabama,"Trump, Donald J.",republican,1318255,2123372,62%
+1,2016,Alaska,AK,"Clinton, Hillary",democrat,116454,318608,36%,2016,Alaska,"Trump, Donald J.",republican,163387,318608,51%
+2,2016,Arizona,AZ,"Clinton, Hillary",democrat,1161167,2573165,45%,2016,Arizona,"Trump, Donald J.",republican,1252401,2573165,48%
+3,2016,Arizona,AZ,Others,democrat,42,2573165,0%,2016,Arizona,"Trump, Donald J.",republican,1252401,2573165,48%
+4,2016,Arkansas,AR,"Clinton, Hillary",democrat,380494,1130635,33%,2016,Arkansas,"Trump, Donald J.",republican,684872,1130635,60%
+5,2016,California,CA,"Clinton, Hillary",democrat,8753788,14181595,61%,2016,California,"Trump, Donald J.",republican,4483810,14181595,31%
+6,2016,Colorado,CO,"Clinton, Hillary",democrat,1338870,2780220,48%,2016,Colorado,"Trump, Donald J.",republican,1202484,2780220,43%
+7,2016,Connecticut,CT,"Clinton, Hillary",democrat,897572,1644920,54%,2016,Connecticut,"Trump, Donald J.",republican,673215,1644920,40%
+8,2016,Delaware,DE,"Clinton, Hillary",democrat,235603,441590,53%,2016,Delaware,"Trump, Donald J.",republican,185127,441590,41%
+9,2016,District of Columbia,DC,"Clinton, Hillary",democrat,282830,312575,90%,2016,District of Columbia,"Trump, Donald J.",republican,12723,312575,4%
+10,2016,Florida,FL,"Clinton, Hillary",democrat,4504975,9420039,47%,2016,Florida,"Trump, Donald J.",republican,4617886,9420039,49%
+11,2016,Georgia,GA,"Clinton, Hillary",democrat,1877963,4114732,45%,2016,Georgia,"Trump, Donald J.",republican,2089104,4114732,50%
+12,2016,Hawaii,HI,"Clinton, Hillary",democrat,266891,437664,60%,2016,Hawaii,"Trump, Donald J.",republican,128847,437664,29%
+13,2016,Idaho,ID,"Clinton, Hillary",democrat,189765,690255,27%,2016,Idaho,"Trump, Donald J.",republican,409055,690255,59%
+14,2016,Illinois,IL,"Clinton, Hillary",democrat,3090729,5536424,55%,2016,Illinois,"Trump, Donald J.",republican,2146015,5536424,38%
+15,2016,Indiana,IN,"Clinton, Hillary",democrat,1033126,2734958,37%,2016,Indiana,"Trump, Donald J.",republican,1557286,2734958,56%
+16,2016,Iowa,IA,"Clinton, Hillary",democrat,653669,1565580,41%,2016,Iowa,"Trump, Donald J.",republican,800983,1565580,51%
+17,2016,Kansas,KS,"Clinton, Hillary",democrat,427005,1184402,36%,2016,Kansas,"Trump, Donald J.",republican,671018,1184402,56%
+18,2016,Kentucky,KY,"Clinton, Hillary",democrat,628854,1924149,32%,2016,Kentucky,"Trump, Donald J.",republican,1202971,1924149,62%
+19,2016,Louisiana,LA,"Clinton, Hillary",democrat,780154,2029032,38%,2016,Louisiana,"Trump, Donald J.",republican,1178638,2029032,58%
+20,2016,Maine,ME,"Clinton, Hillary",democrat,357735,771892,46%,2016,Maine,"Trump, Donald J.",republican,335593,771892,43%
+21,2016,Maryland,MD,"Clinton, Hillary",democrat,1677928,2781446,60%,2016,Maryland,"Trump, Donald J.",republican,259,2781446,0%
+22,2016,Massachusetts,MA,"Clinton, Hillary",democrat,1995196,3378821,59%,2016,Massachusetts,"Trump, Donald J.",republican,1090893,3378821,32%
+23,2016,Michigan,MI,"Clinton, Hillary",democrat,2268839,4799284,47%,2016,Michigan,"Trump, Donald J.",republican,2279543,4799284,47%
+24,2016,Minnesota,MN,"Clinton, Hillary",democrat,1367705,2944782,46%,2016,Minnesota,"Trump, Donald J.",republican,1322949,2944782,44%
+25,2016,Mississippi,MS,"Clinton, Hillary",democrat,485131,1209357,40%,2016,Mississippi,"Trump, Donald J.",republican,700714,1209357,57%
+26,2016,Missouri,MO,"Clinton, Hillary",democrat,1071068,2808605,38%,2016,Missouri,"Trump, Donald J.",republican,1594511,2808605,56%
+27,2016,Montana,MT,"Clinton, Hillary",democrat,177709,494526,35%,2016,Montana,"Trump, Donald J.",republican,279240,494526,56%
+28,2016,Nebraska,NE,"Clinton, Hillary",democrat,284494,844227,33%,2016,Nebraska,"Trump, Donald J.",republican,495961,844227,58%
+29,2016,Nevada,NV,"Clinton, Hillary",democrat,539260,1125385,47%,2016,Nevada,"Trump, Donald J.",republican,512058,1125385,45%
+30,2016,New Hampshire,NH,"Clinton, Hillary",democrat,348526,744296,46%,2016,New Hampshire,"Trump, Donald J.",republican,345790,744296,46%
+31,2016,New Jersey,NJ,"Clinton, Hillary",democrat,2148278,3874046,55%,2016,New Jersey,"Trump, Donald J.",republican,1601933,3874046,41%
+32,2016,New Mexico,NM,"Clinton, Hillary",democrat,385234,798319,48%,2016,New Mexico,"Trump, Donald J.",republican,319667,798319,40%
+33,2016,New York,NY,"Clinton, Hillary",democrat,4379789,7802084,56%,2016,New York,"Trump, Donald J.",republican,2527142,7802084,32%
+34,2016,North Carolina,NC,"Clinton, Hillary",democrat,2189316,4741564,46%,2016,North Carolina,"Trump, Donald J.",republican,2362631,4741564,49%
+35,2016,North Dakota,ND,"Clinton, Hillary",democrat,93758,344360,27%,2016,North Dakota,"Trump, Donald J.",republican,216794,344360,62%
+36,2016,Ohio,OH,"Clinton, Hillary",democrat,2394164,5496487,43%,2016,Ohio,"Trump, Donald J.",republican,2841005,5496487,51%
+37,2016,Oklahoma,OK,"Clinton, Hillary",democrat,420375,1452992,28%,2016,Oklahoma,"Trump, Donald J.",republican,949136,1452992,65%
+38,2016,Oregon,OR,"Clinton, Hillary",democrat,1002106,2001336,50%,2016,Oregon,"Trump, Donald J.",republican,782403,2001336,39%
+39,2016,Pennsylvania,PA,"Clinton, Hillary",democrat,2926441,6115402,47%,2016,Pennsylvania,"Trump, Donald J.",republican,2970733,6115402,48%
+40,2016,Rhode Island,RI,"Clinton, Hillary",democrat,252525,464144,54%,2016,Rhode Island,"Trump, Donald J.",republican,180543,464144,38%
+41,2016,South Carolina,SC,"Clinton, Hillary",democrat,855373,2103027,40%,2016,South Carolina,"Trump, Donald J.",republican,1155389,2103027,54%
+42,2016,South Dakota,SD,"Clinton, Hillary",democrat,117458,370093,31%,2016,South Dakota,"Trump, Donald J.",republican,227721,370093,61%
+43,2016,Tennessee,TN,"Clinton, Hillary",democrat,870695,2508027,34%,2016,Tennessee,"Trump, Donald J.",republican,1522925,2508027,60%
+44,2016,Texas,TX,"Clinton, Hillary",democrat,3877868,8969226,43%,2016,Texas,"Trump, Donald J.",republican,4685047,8969226,52%
+45,2016,Utah,UT,"Clinton, Hillary",democrat,310674,1131317,27%,2016,Utah,"Trump, Donald J.",republican,515211,1131317,45%
+46,2016,Vermont,VT,"Clinton, Hillary",democrat,178573,320467,55%,2016,Vermont,"Trump, Donald J.",republican,95369,320467,29%
+47,2016,Virginia,VA,"Clinton, Hillary",democrat,1981473,3982752,49%,2016,Virginia,"Trump, Donald J.",republican,1769443,3982752,44%
+48,2016,Washington,WA,"Clinton, Hillary",democrat,1742718,3317019,52%,2016,Washington,"Trump, Donald J.",republican,1221747,3317019,36%
+49,2016,West Virginia,WV,"Clinton, Hillary",democrat,188794,713051,26%,2016,West Virginia,"Trump, Donald J.",republican,489371,713051,68%
+50,2016,Wisconsin,WI,"Clinton, Hillary",democrat,1382536,2976150,46%,2016,Wisconsin,"Trump, Donald J.",republican,1405284,2976150,47%
+51,2016,Wyoming,WY,"Clinton, Hillary",democrat,55973,258788,21%,2016,Wyoming,"Trump, Donald J.",republican,174419,258788,67%

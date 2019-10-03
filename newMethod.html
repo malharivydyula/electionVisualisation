@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en" style="border: solid; border-width: 10px; border-color: rgb(61, 108, 153) rgb(61, 108, 153) rgb(61, 108, 153) rgb(61, 108, 153)">
+<head>
+<meta charset="utf-8">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/topojson.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<style type="text/css">
+   
+path:hover {
+	fill-opacity: 0;
+}
+.background {
+  fill: none;
+  pointer-events: all;
+}
+#states {
+  fill: steelblue ;
+}
+
+#state-borders {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
+} 
+    
+#trump{
+    color: rgb(198, 69, 38);
+    font-size: 30px;
+}
+    
+#hillary{
+    color: rgb(61, 108, 153);
+    font-size: 30px;
+}
+
+#tname{
+    opacity: 0.8;
+    font-size: 15px;
+}  
+#hname{
+    opacity: 0.8;
+    font-size: 15px;
+}  
+    
+#votes{
+    opacity: 0.5;
+    font-size: 12px;
+
+}
+    
+    
+#Bname{
+        height: 50px; 
+        font-family: Impact; 
+        font-size: 19px; 
+        letter-spacing: 0.2em
+}
+    
+.back{
+        background-color: lightgray; width=150px; height: 20px;
+    }
+</style>
+</head>
+    
+    <div style="height: 10px"></div>    
+<body align="center">  
+    <h1 style="font-family: Georgia; color:rgb(61, 108, 153); font-size: 50px ;" align="center">The Trump Factor</h1>
+
+    <div>
+    <img src="tru.jpeg" hspace="20" style="width:55px;height:80px; float:left;padding-left: 250px" >
+    <img src="hil.jpeg" hspace="20" style="width:55px;height:80px; float: right;padding-right: 250px">
+
+
+    </div>
+
+<div align="center" class="bar" style="height: 80px; max-width: 700px; margin: auto;"  >
+        
+    <div id="data" style="background-color: white;height: 40px; width: 100%; float: left;">
+            <div id="trump" style="float: left; font-family: Georgia">
+                <strong>306</strong>
+            </div>
+            <div id="hillary" style="float: right; font-family: Georgia">
+                <strong>232</strong>
+            </div>
+    </div>
+    
+    
+    
+    <div style="background-color: white;height: 20px; width: 100%; float: left;">
+        <div id="tname" style="float: left; font-family: Gill Sans">Donald Trump (R)</div>
+        <div id="hname" style="float: right; font-family: Gill Sans">Hillary Clinton (D)</div>
+    </div> 
+    
+    
+    
+    <div style="background-color: rgb(198, 69, 38);height: 20px; width: 56.87%; float: left; outline-style: solid;outline-width: medium"></div>
+    <div style="background-color: rgb(61, 108, 153);height: 20px; width: 43.12%; float: left; outline-style: solid;outline-width: medium"></div>
+</div>
+    
+<div style="height: 5px"></div>
+    
+    
+<div id="votes">
+    
+    <div style="float: left; font-family: Gill Sans;padding-left: 360px">62,980,160 votes</div>
+    <div style="float: right; font-family: Gill Sans;padding-right: 360px">65,845,063 votes</div>
+    
+</div>
+    
+<script type="text/javascript">
+    
+var width = 760,
+    height = 400,
+    centered;
+
+var projection = d3.geo.albersUsa()
+    .scale(800)
+    .translate([width / 2, height / 2]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+.style("margin-left","5%");
+
+svg.append("rect")
+    .attr("class", "background")
+    .attr("width", width)
+    .attr("height", height);
+
+var g = svg.append("g");
+
+
+// Load in my states data!
+
+// Load GeoJSON data and merge with states data
+d3.json("usaJson.json", function(json) {
+    
+d3.csv("datax.csv", function(data) {
+
+// Loop through each state data value in the .csv file
+for (var i = 0; i < data.length; i++) {
+
+	// Grab State Name
+	var dataState = data[i].state_po;
+
+	// Grab Party value 
+	var party = data[i].party;
+    // console.log(json)
+
+	// Find the corresponding state inside the GeoJSON
+	for (var j = 0; j < json.objects.usStates.geometries.length; j++)  {
+		var jsonState = json.objects.usStates.geometries[j].properties.STATE_ABBR;
+
+		if (dataState == jsonState) {
+            //console.log(dataState)
+            //console.log(jsonState)
+            
+            // Copy the party value into the JSON
+
+            if(party == 'republican')
+                {
+                    json.objects.usStates.geometries[j].properties.color = "rgb(198, 69, 38)"; 
+                }
+            else{
+                json.objects.usStates.geometries[j].properties.color = "rgb(61, 108, 153)"; 
+            }
+
+		
+
+		// Stop looking through the JSON
+		break;
+		}
+        
+        console.log(json.objects.usStates.geometries[j].properties.color)
+            }
+        }
+
+// Bind the data to the SVG and create one path per GeoJSON feature
+
+  
+
+  g.append("g")
+      .attr("id", "states")
+    .selectAll("path")
+      .data(topojson.feature(json, json.objects.usStates).features)
+    .enter().append("path")
+      .attr("d", path)
+    .style("fill", function(d) {
+            // Get data value
+            var value = d.properties.color;
+            return value;
+
+                });
+    
+
+  g.append("path")
+      .datum(topojson.mesh(json, json.objects.usStates, function(a, b) { return a !== b; }))
+      .attr("id", "state-borders")
+      .attr("d", path);
+
+    
+    
+
+//Selecting the state
+    g.selectAll("states")
+      .data(topojson.feature(json, json.objects.usStates).features)
+    .enter()
+      .append("path")
+      .attr("class", "states")
+      .attr("d", path)
+    .style("stroke", "#fff")
+	.style("stroke-width", "1")
+    .style("fill", function(d) {
+            // Get data value
+            var value = d.properties.color;
+            return value;
+
+                })
+    .on("mouseover", handleMouseOver)
+    .on("mouseout", function(d) {  
+        svg.transition()        
+           .duration(500);      
+           //.style("opacity", 1); 
+        
+        // d3.select("#Bname").selectAll("p").remove();
+       // d3.select("#Bname").insert("p").text("USA");
+        
+        //d3.select("#bone").remove();
+        //d3.select("#a").append("div").id("#bone").style("background-color: rgb(198, 69, 38); width: 45.9%;height: 20px");
+
+        
+        
+        
+        
+        
+    })
+    .on("click", clicked);
+    
+    
+});
+    
+});
+    
+ function handleMouseOver(d) {  // Add interactivity
+          svg.transition()        
+      	   .duration(500) ;     
+          // .style("opacity", 1);
+     
+            }
+    
+ 
+  function clicked(d) {
+           //console.log(d.properties.STATE_ABBR)
+      
+                 
+d3.csv("final2.csv", function(final2) {
+    
+    
+    for (var i = 0; i < final2.length; i++) {
+        
+        var perstate = final2[i].state_po;
+        //console.log(perstate)
+        
+        if(perstate == d.properties.STATE_ABBR){
+            var statename = final2[i].state_x;
+            var dem = final2[i].percent_vote_x;
+            var rep = final2[i].percent_vote_y;
+            //console.log(perstate)
+            //console.log(dem);
+            //console.log(rep); 
+            //console.log(statename)
+            
+            d3.select("#bone").style("width",rep);
+            d3.select("#btwo").style("width",dem);
+            d3.select("#Bname").selectAll("p").remove();
+           // d3.select("#Bname").selectAll("p").style("visible",hidden);
+            
+            
+            d3.select("#Bname").insert("p").text(statename);
+            
+            $("#rep").text("Republican " + rep)
+             $("#dem").text("Democratic " + dem)
+            
+            
+           // d3.select("#bone").insert("a").text(statename);
+            
+            
+            
+            d3.select("#bthree").remove();
+            d3.select("#bfour").remove();
+            d3.select("#c").remove();
+            d3.select("#d").remove();
+            
+            
+            
+            d3.select("#lib").remove();
+            d3.select("#gree").remove();
+            
+            
+            
+            
+            
+            ////////////////////
+            
+            
+              
+        //TEXT INFO
+      
+            d3.json("lines.json", function(line){
+                for(var i=0;i < line.usStates.length;i++){
+              
+                    var linestate = line.usStates[i].name;
+              //console.log(line.usStates[i].name);
+              
+             // var state = line.usStates[i].properties.name;
+              //var
+              
+              if(linestate == statename){
+                  console.log(linestate);
+                  
+                  var str1 = "";
+                  var str2 = "";
+                  var finalstr = "";
+                  //Census Sentences Start
+                  for(j=0;j<2;j++){
+                        var lin = line.usStates[i].census_sentences[j];
+                        str1 = str1 + " " + lin;
+                      
+                      
+                      
+                  }
+                  console.log(str1)
+                  //Census Sentences End
+                  
+                  
+                  
+                   //Historic Sentences Start
+                    var linn = line.usStates[i].history_sentence[0];
+                    str2 = str2 + " " + linn;
+                      
+                      
+                      
+                  
+                  console.log(str2)
+                  //Historic Sentences End
+                  
+                  // String to be Displayed:
+                  finalstr = str1+ " " +str2;
+                  
+                  $("#info").text(finalstr)
+                  
+              }
+              
+              
+              
+              
+              
+          }
+          
+          
+          
+      });
+            
+            
+            
+            /////////////////////
+            
+            
+            
+            
+            
+            
+            
+    
+    
+            
+        }
+        
+        
+    }
+
+    
+    
+    
+});
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+  var x, y, k;
+
+  if (d && centered !== d) {
+     // console.log(d)
+      //console.log(centered)
+    var centroid = path.centroid(d);
+    x = centroid[0];
+    y = centroid[1];
+    k = 4;
+    centered = d;
+  } else {
+    x = width / 2;
+    y = height / 2;
+    k = 1;
+    centered = null;
+  }
+       
+
+  g.selectAll("states")
+      .classed("active", centered && function(d) { return d === centered; });
+  g.transition()
+      .duration(750)
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
+      .style("stroke-width", 1.5 / k + "px");  
+    
+      
+      
+
+}  
+       
+    
+    
+    </script>
+    <div id="container" style="float: right; width: 340px;padding-top: 50px; padding-right: 200px; height: 200px;">
+
+
+    <div id= "Bars" style="float: left; width: 180px;">
+        <div style="height: 10px"></div>
+        
+        <div id = "Bname">
+            <p>USA</p>
+        </div>
+        <div style="height: 5px"></div>
+
+        
+        <div class="back" id ="a">
+            <div id="bone" style="background-color: rgb(198, 69, 38); width: 45.9%;height: 20px"></div>
+            
+        </div>
+        <div style="height: 5px"></div>
+        
+        
+        <div class="back" id = "b">
+            <div id="btwo" style="background-color: rgb(61, 108, 153); width: 48.0%;height: 20px"></div>
+        </div>
+        <div style="height: 5px"></div>
+        
+        
+        <div class="back" id="c">
+            <div id="bthree" style="background-color: gold; width: 3.3%;height: 20px"></div>
+        </div>
+        <div style="height: 5px"></div>
+        
+        
+        <div class="back" id="d">
+            <div id="bfour" style="background-color: green; width: 1.1%;height: 20px"></div>
+        </div>
+            
+    </div>
+        
+        
+        
+        
+        
+        
+        <div id = "words" style="float: right; width: 122px;">
+            <div id="rep" style="font-family : Impact; float: left;  color:rgb(198, 69, 38); padding-top: 84px;">Republican 45.9%</div>
+            
+            <div style="height: 14px"></div>
+            <div id="dem" style="font-family : Impact; float: left; color: rgb(61, 108, 153); height: 15px; padding-top: 8px">Democratic 48.0%</div>
+            
+            
+            <div style="height: 14px"></div>
+            <div id="lib" style="font-family : Impact; float: left; color: goldenrod; height: 15px; padding-top: 8px">Libertarian 3.3%</div>
+            
+            
+            <div style="height: 14px"></div>
+            <div id="gree" style="font-family : Impact; float: left; color: green; height: 15px; padding-top: 8px">Green 1.1%</div>
+        
+        
+        
+        </div>
+        
+       
+        
+    <div style="padding-top: 200px;">
+        <p id = "brief" style="font-family : Impact; float: left">IN BRIEF</p>
+        <a id ="info" style="font-family: Gill Sans; float: left; opacity: 0.6;">
+         Candidates need at least 270 electoral votes to win. Electoral votes are allocated through a winner-take-all system in 48 states and DC. Electors casted their ballots on 19 December 2016 and voted Donald Trump into office with 304 votes to Clinton's 227.
+        </a>
+    </div>
+     
+        
+        
+    </div> 
+    
+    
+    </body>
+    
+</html>

@@ -1,0 +1,52 @@
+"","state.x","candidatevotes","year","state_po","state_fips","state_cen","state_ic","office","candidate","party","writein","totalvotes","version","notes"
+"1","Alabama",1318255,2016,"AL",1,63,41,"US President","Trump, Donald J.","republican",FALSE,2123372,20171015,NA
+"2","Alaska",163387,2016,"AK",2,94,81,"US President","Trump, Donald J.","republican",FALSE,318608,20171015,NA
+"3","Arizona",1252401,2016,"AZ",4,86,61,"US President","Trump, Donald J.","republican",FALSE,2573165,20171015,NA
+"4","Arkansas",684872,2016,"AR",5,71,42,"US President","Trump, Donald J.","republican",FALSE,1130635,20171015,NA
+"5","California",8753788,2016,"CA",6,93,71,"US President","Clinton, Hillary","democrat",FALSE,14181595,20171015,NA
+"6","Colorado",1338870,2016,"CO",8,84,62,"US President","Clinton, Hillary","democrat",FALSE,2780220,20171015,NA
+"7","Connecticut",897572,2016,"CT",9,16,1,"US President","Clinton, Hillary","democrat",FALSE,1644920,20171015,NA
+"8","Delaware",235603,2016,"DE",10,51,11,"US President","Clinton, Hillary","democrat",FALSE,441590,20171015,NA
+"9","District of Columbia",282830,2016,"DC",11,53,55,"US President","Clinton, Hillary","democrat",FALSE,312575,20171015,NA
+"10","Florida",4617886,2016,"FL",12,59,43,"US President","Trump, Donald J.","republican",FALSE,9420039,20171015,NA
+"11","Georgia",2089104,2016,"GA",13,58,44,"US President","Trump, Donald J.","republican",FALSE,4114732,20171015,NA
+"12","Hawaii",266891,2016,"HI",15,95,82,"US President","Clinton, Hillary","democrat",FALSE,437664,20171015,NA
+"13","Idaho",409055,2016,"ID",16,82,63,"US President","Trump, Donald J.","republican",FALSE,690255,20171015,NA
+"14","Illinois",3090729,2016,"IL",17,33,21,"US President","Clinton, Hillary","democrat",FALSE,5536424,20171015,NA
+"15","Indiana",1557286,2016,"IN",18,32,22,"US President","Trump, Donald J.","republican",FALSE,2734958,20171015,NA
+"16","Iowa",800983,2016,"IA",19,42,31,"US President","Trump, Donald J.","republican",FALSE,1565580,20171015,NA
+"17","Kansas",671018,2016,"KS",20,47,32,"US President","Trump, Donald J.","republican",FALSE,1184402,20171015,NA
+"18","Kentucky",1202971,2016,"KY",21,61,51,"US President","Trump, Donald J.","republican",FALSE,1924149,20171015,NA
+"19","Louisiana",1178638,2016,"LA",22,72,45,"US President","Trump, Donald J.","republican",FALSE,2029032,20171015,NA
+"20","Maine",357735,2016,"ME",23,11,2,"US President","Clinton, Hillary","democrat",FALSE,771892,20171015,NA
+"21","Maryland",1677928,2016,"MD",24,52,52,"US President","Clinton, Hillary","democrat",FALSE,2781446,20171015,NA
+"22","Massachusetts",1995196,2016,"MA",25,14,3,"US President","Clinton, Hillary","democrat",FALSE,3378821,20171015,NA
+"23","Michigan",2279543,2016,"MI",26,34,23,"US President","Trump, Donald J.","republican",FALSE,4799284,20171015,NA
+"24","Minnesota",1367705,2016,"MN",27,41,33,"US President","Clinton, Hillary","democrat",FALSE,2944782,20171015,NA
+"25","Mississippi",700714,2016,"MS",28,64,46,"US President","Trump, Donald J.","republican",FALSE,1209357,20171015,NA
+"26","Missouri",1594511,2016,"MO",29,43,34,"US President","Trump, Donald J.","republican",FALSE,2808605,20171015,NA
+"27","Montana",279240,2016,"MT",30,81,64,"US President","Trump, Donald J.","republican",FALSE,494526,20171015,NA
+"28","Nebraska",495961,2016,"NE",31,46,35,"US President","Trump, Donald J.","republican",FALSE,844227,20171015,NA
+"29","Nevada",539260,2016,"NV",32,88,65,"US President","Clinton, Hillary","democrat",FALSE,1125385,20171015,NA
+"30","New Hampshire",348526,2016,"NH",33,12,4,"US President","Clinton, Hillary","democrat",FALSE,744296,20171015,NA
+"31","New Jersey",2148278,2016,"NJ",34,22,12,"US President","Clinton, Hillary","democrat",FALSE,3874046,20171015,NA
+"32","New Mexico",385234,2016,"NM",35,85,66,"US President","Clinton, Hillary","democrat",FALSE,798319,20171015,NA
+"33","New York",4379789,2016,"NY",36,21,13,"US President","Clinton, Hillary","democrat",FALSE,7802084,20171015,NA
+"34","North Carolina",2362631,2016,"NC",37,56,47,"US President","Trump, Donald J.","republican",FALSE,4741564,20171015,NA
+"35","North Dakota",216794,2016,"ND",38,44,36,"US President","Trump, Donald J.","republican",FALSE,344360,20171015,NA
+"36","Ohio",2841005,2016,"OH",39,31,24,"US President","Trump, Donald J.","republican",FALSE,5496487,20171015,NA
+"37","Oklahoma",949136,2016,"OK",40,73,53,"US President","Trump, Donald J.","republican",FALSE,1452992,20171015,NA
+"38","Oregon",1002106,2016,"OR",41,92,72,"US President","Clinton, Hillary","democrat",FALSE,2001336,20171015,NA
+"39","Pennsylvania",2970733,2016,"PA",42,23,14,"US President","Trump, Donald J.","republican",FALSE,6115402,20171015,NA
+"40","Rhode Island",252525,2016,"RI",44,15,5,"US President","Clinton, Hillary","democrat",FALSE,464144,20171015,NA
+"41","South Carolina",1155389,2016,"SC",45,57,48,"US President","Trump, Donald J.","republican",FALSE,2103027,20171015,NA
+"42","South Dakota",227721,2016,"SD",46,45,37,"US President","Trump, Donald J.","republican",FALSE,370093,20171015,NA
+"43","Tennessee",1522925,2016,"TN",47,62,54,"US President","Trump, Donald J.","republican",FALSE,2508027,20171015,NA
+"44","Texas",4685047,2016,"TX",48,74,49,"US President","Trump, Donald J.","republican",FALSE,8969226,20171015,NA
+"45","Utah",515211,2016,"UT",49,87,67,"US President","Trump, Donald J.","republican",FALSE,1131317,20171015,NA
+"46","Vermont",178573,2016,"VT",50,13,6,"US President","Clinton, Hillary","democrat",FALSE,320467,20171015,NA
+"47","Virginia",1981473,2016,"VA",51,54,40,"US President","Clinton, Hillary","democrat",FALSE,3982752,20171015,NA
+"48","Washington",1742718,2016,"WA",53,91,73,"US President","Clinton, Hillary","democrat",FALSE,3317019,20171015,NA
+"49","West Virginia",489371,2016,"WV",54,55,56,"US President","Trump, Donald J.","republican",FALSE,713051,20171015,NA
+"50","Wisconsin",1405284,2016,"WI",55,35,25,"US President","Trump, Donald J.","republican",FALSE,2976150,20171015,NA
+"51","Wyoming",174419,2016,"WY",56,83,68,"US President","Trump, Donald J.","republican",FALSE,258788,20171015,NA
